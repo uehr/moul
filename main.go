@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/moulco/moul/cmd"
+	"github.com/uehr/moul/cmd"
 )
 
 func main() {

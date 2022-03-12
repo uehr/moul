@@ -52,4 +52,4 @@ $ moul export
 
 ## `moul.toml` Configuration
 
-See full options [here](https://github.com/moulco/moul/tree/master/docs)
+See full options [here](https://github.com/uehr/moul/tree/master/docs)

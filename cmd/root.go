@@ -22,10 +22,10 @@ import (
 	"github.com/gobuffalo/plush"
 	"github.com/golang/freetype/truetype"
 	"github.com/gosimple/slug"
-	"github.com/moulco/moul/internal"
 	"github.com/rhysd/go-github-selfupdate/selfupdate"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
+	"github.com/uehr/moul/internal"
 )
 
 const (

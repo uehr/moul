@@ -1,4 +1,4 @@
-# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+# docs: https://github.com/uehr/moul/tree/master/docs#example-moultoml
 base = "/"
 ga_measurement_id = ""
 

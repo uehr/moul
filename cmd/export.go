@@ -18,7 +18,6 @@ import (
 	"github.com/gobuffalo/packr/v2"
 	"github.com/gobuffalo/plush"
 	"github.com/gosimple/slug"
-	"github.com/moulco/moul/internal"
 	"github.com/otiai10/copy"
 	"github.com/rhysd/go-github-selfupdate/selfupdate"
 	"github.com/spf13/cobra"
@@ -27,6 +26,7 @@ import (
 	"github.com/tdewolff/minify/v2/css"
 	"github.com/tdewolff/minify/v2/html"
 	"github.com/tdewolff/minify/v2/svg"
+	"github.com/uehr/moul/internal"
 )
 
 // Export cmd

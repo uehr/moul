@@ -10,11 +10,11 @@
 	"files": [],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/moulco/moul.git"
+		"url": "https://github.com/uehr/moul.git"
 	},
 	"author": "Sophearak Tha <hi@sophearak.me> (https://sophearak.me/)",
 	"bugs": {
-		"url": "https://github.com/moulco/moul/issues"
+		"url": "https://github.com/uehr/moul/issues"
 	},
 	"homepage": "https://moul.app/",
 	"husky": {

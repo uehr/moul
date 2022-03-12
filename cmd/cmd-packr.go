@@ -5,4 +5,4 @@
 // and any other packr generated files.
 package cmd
 
-import _ "github.com/moulco/moul/packrd"
+import _ "github.com/uehr/moul/packrd"
