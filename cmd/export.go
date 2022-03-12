@@ -170,7 +170,8 @@ var Export = &cobra.Command{
 		}
 		ioutil.WriteFile(filepath.Join(".", ".moul", "index.html"), []byte(mts), 0644)
 
-		out := filepath.Join(".", output)
+		out := filepath.Join("./dist")
+
 		if _, err := os.Stat(out); !os.IsNotExist(err) {
 			internal.RemoveAll(out)
 		}
